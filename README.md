@@ -1,8 +1,6 @@
 # MyPetProject-3
 
 Проект представляет собой твиттер-клон с функциональностью на JS + React
-## UI проекта
-![Alt-текст](https://sun9-28.userapi.com/impg/yrVPgQWjllL48sUNt9yY2maeA6wE4neRGDXAqw/tlz4sQpDgz0.jpg?size=925x535&quality=96&sign=cb4b18c544ae1b76c6f04cfb0ef3c545&type=album "UI")
 
 ## Проект обладает следующим функционалом:
 1) Поиск по ключевым словам постов
@@ -18,3 +16,6 @@
 1) [Reactstrap + Bootstrap](https://reactstrap.github.io/)
 2) [React + ReactDOM](https://github.com/facebook/react)
 3) [Styled-components](https://styled-components.com/)
+
+## UI проекта
+![Alt-текст](https://sun9-28.userapi.com/impg/yrVPgQWjllL48sUNt9yY2maeA6wE4neRGDXAqw/tlz4sQpDgz0.jpg?size=925x535&quality=96&sign=cb4b18c544ae1b76c6f04cfb0ef3c545&type=album "UI")
